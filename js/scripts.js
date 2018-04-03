@@ -1,13 +1,10 @@
-// first comment 
+// scripts.js
 
 var name = prompt('Enter your name');
-
 /*
-The second comment 
-- long version
-*/
-
+This allert is disabled:
 alert('Hello, ' + name);
+*/
 console.log('Hello, ' + name);
 
-//3 comment
+//last comment
